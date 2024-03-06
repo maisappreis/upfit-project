@@ -3,9 +3,12 @@
 This desktop application was developed to manage the company's customers, income and expenses.
 
 ## Technologies:
-- Vue.js
+- Vue.js 3
 - Electron
 - Django
+
+![image](https://github.com/maisappreis/upfit-project/assets/113925909/93fb4995-d68e-4aee-a6ba-abe8e9b105ab)
+
 
 
 ## 🌱 On Frontend Development
