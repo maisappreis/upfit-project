@@ -4,10 +4,9 @@ This desktop application was developed to manage the company's customers, income
 
 ## Technologies:
 - Vue.js
-- Django
 - Electron
+- Django
 
-![alt text](image.png)
 
 ## 🌱 On Frontend Development
 
