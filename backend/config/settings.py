@@ -58,7 +58,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8081",  # Replace with the origin of your frontend
+    "http://localhost:5173",  # Replace with the origin of your frontend
 ]
 
 ROOT_URLCONF = 'config.urls'
